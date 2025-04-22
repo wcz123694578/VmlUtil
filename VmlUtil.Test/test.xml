@@ -1,0 +1,9 @@
+﻿<test attr1="te st">
+  Test1
+  <item1 attr1="atttr">
+    Test3
+    <item3></item3>
+  </item1>
+  <item1 attr1="atttr"/>
+  Test    2
+<test>
